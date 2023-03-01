@@ -1,6 +1,6 @@
 //your code here
 
-JavaScript
+
 var todovalue = document.getElementById("newTodoInput");
 var btn = document.getElementById("addTodoBtn");
 var ol = document.getElementById("todoList");
